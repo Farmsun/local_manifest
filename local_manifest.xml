@@ -17,7 +17,6 @@
         name="android_device_xiaomi_yunluo-kernel"
         remote="6789-dev" />
 
-    <remove-project name="android_device_mediatek_sepolicy_vndr" />
     <project path="device/mediatek/sepolicy_vndr" name="android_device_mediatek_sepolicy_vndr"
         remote="6789-dev" />
 
