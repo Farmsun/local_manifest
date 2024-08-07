@@ -3,7 +3,7 @@
         <remote name="farmsun" fetch="https://github.com/farmsun" />
        	
           
-        <project remote="farmsun" name="device_xiaomi_sakura" path="device/xiaomi/sakura" revision="DSP-wip"/>
+        <project remote="farmsun" name="device_xiaomi_sakura" path="device/xiaomi/sakura" revision="DSP"/>
         <project remote="farmsun" name="vendor_xiaomi_sakura" path="vendor/xiaomi/sakura" revision="14" />
         <project remote="farmsun" name="vendor_xiaomi_msm8953-common" path="vendor/xiaomi/msm8953-common" revision="14" />
         <project remote="farmsun" name="kernel_xiaomi_msm8953" path="kernel/xiaomi/msm8953"  revision="14" />
