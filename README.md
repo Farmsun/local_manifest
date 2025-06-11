@@ -1,1 +1,1 @@
-local manifest for sakura (redmi 6 pro)
+local manifest for s20 x1q
